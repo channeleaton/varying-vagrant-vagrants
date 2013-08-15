@@ -56,7 +56,7 @@ Immediate goals for VVV include:
 1. Install [Vagrant 1.2.5](http://downloads.vagrantup.com/tags/v1.2.5)
     * `vagrant` will now be available as a command in the terminal, try it out.
 1. Clone the Varying Vagrant Vagrants repository into a local directory
-    * `git clone git://github.com/10up/varying-vagrant-vagrants.git vagrant-local`
+    * `git clone git://github.com/channeleaton/varying-vagrant-vagrants.git vagrant-local`
     * OR download and extract the repository master [zip file](https://github.com/channeleaton/varying-vagrant-vagrants/archive/master.zip)
 1. Change into the new directory
     * `cd vagrant-local`
